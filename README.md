@@ -22,7 +22,7 @@ To run this project, ensure the following are installed:
 - **Java 17 or later**
 - **JavaFX** (Ensure JavaFX is properly configured in your Java environment)
 
-## Earth and Moon around Sun
+## Simulation of random planets around the sun 
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/177a63e2-c972-44e2-9169-9cb7d514d967" />
 
 ## Shortened image of solar system
